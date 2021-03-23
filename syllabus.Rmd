@@ -12,8 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 &nbsp;
 ------------------------------ ------------------------------- 
-**Instructor**:                [Dr. William E. M. Lowe](lowe@hertie-school.org)
-**Assistant Email**:           <adjunctsupport@hertie-school.org>
+**Instructor**:                [Dr. William E. M. Lowe](mailto:lowe@hertie-school.org)
 **Office**:                    Room 3.14
 **Office Hours**               By arrangement. Email the instructor directly.
 **Class Times**                Tuesdays 16:00-18:00
