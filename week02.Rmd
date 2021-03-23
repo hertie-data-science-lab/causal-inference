@@ -1,0 +1,66 @@
+---
+title: "Experiments, Quasi-experiments, and Definitely not Experiments"
+date: "September 8th, 2020"
+description: "What's so great about randomization and control anyway?"
+---
+
+An important question to ask for any study design is: what causal
+effects are, or could be identified here? Often the answer is 'none',
+and that is an important thing to know. Not only is purely descriptive
+research important in itself, but all causal inferences from data are
+still descriptive studies when the causal claims are removed. 
+
+More typically we must ask: what assumptions - in the broadest sense -
+would it be necessary to make in order to identify an effect of
+interest in this study?
+
+This week we revisit the 'experimental ideal' for causal inference
+with a critical eye. In most policy contexts we cannot, or should not,
+randomize or control 'treatment' assignment, so one question is how
+close we can get to the ideal.
+
+Conversely, when we *do* manage to get an experiment running, particularly 
+a field experiment, then lots of things can happen that make our happy 
+randomization and control go wrong, e.g. non-compliance, attrition ('drop out') and 
+missing data of a less drastic variety. At this point we have an partly 
+'observational' study again, so we may as well get used to it.
+
+Either way it'll be useful to work in a framework that doesn't strongly 
+distinguish experimental and non-experimental work. The general issue 
+will be: how *close* to the experimental ideal can we get?
+
+Finally we will consider methods of adaptive experimentation where the 
+sample size and design is dynamically allocated. This methodology was 
+developed in computer science for 'active', and more generally 'reinforcement 
+learning' applications, but is now used for large scale experimentation, e.g. 
+in the tech sector. We will look at an example using Thompson sampling.
+
+## Readings (for weeks 1 *and* 2)
+
+- A. S. Gerber and D. P. Green (2012) 'Field experiments: Design,
+  analysis, and interpretation' Norton. (highly recommended for those
+  new to field experiments)
+
+- EGAP's [methods guides](https://egap.org/methods-guides/) on many of the topics from lecture. Well worth bookmarking.
+  Mostly development examples.
+
+- G. W. Imbens (2020) [Potential Outcome and Directed Acyclic
+  Graph Approaches to Causality: Relevance for Empirical Practice in
+  Economics](https://arxiv.org/pdf/1907.07271.pdf) Arxiv 1907.07271v2
+  (A graph skeptical overview of this week's topics from an economist)
+
+- WhatIf ch. 1, 2, 3, 6, and 10
+
+- Steiner et al. 2017 [Graphical models for quasi-experimental designs](https://dl.conjugateprior.org/ciml/reading/Steineretal2017.pdf) Sociological Methods and Research.
+
+- Russo et al. 2017 [A tutorial on Thompson sampling](https://arxiv.org/abs/1707.02038) 
+  arXiv 1707.0203.
+  
+
+## Lecture
+
+- [Moodle page](https://moodle.hertie-school.org/course/index.php?categoryid=266) (not there yet)
+
+
+
+

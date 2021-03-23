@@ -1,0 +1,30 @@
+---
+title: "Special topics: Sensitivity and Bounds"
+date: "September 8th, 2020"
+description: "When you just don't know, sometimes you should offer all possible answers"
+---
+
+In this session we consider how to to gauge the robustness of causal
+inferences to things we know we don't know, but suspect might
+matter. This process is called sensitivity analysis and is not
+practiced as much as you might hope.
+
+This is distinct from what are referred to as 'robustness checks'
+because rather than investigating alternative functional form of or
+additional measured variables, it asks: how big do the effects of all
+unmeasured confounders have to be before the effect I currently have
+disappears.
+
+We will also look at tools to bound causal effects. Suprisingly often
+observed data will imply logical constraints on how big or small a
+causal effect could possibly be. Applying these can often be
+informative, even without a traditional causal identification. 
+
+## Readings
+
+Cinelli and Hazlett (2020) 'Making sense of sensitivity: extending omitted variable bias'
+
+## Lecture
+
+[Link](https://moodle.hertie-school.org/course/index.php?categoryid=266)
+

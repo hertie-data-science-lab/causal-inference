@@ -1,0 +1,61 @@
+---
+title: "Even More Machine Learning"
+date: "September 8th, 2020"
+description: "Because one week was not enough"
+---
+
+By popular demand - more machine learning. Diff-in-diff will move to next
+week.
+
+## Readings
+
+- Wager and Athey (2017) [Estimation and Inference of Heterogeneous Treatment
+Effects using Random Forests](https://arxiv.org/pdf/1510.04342.pdf) Arxiv 1510.04342v4
+
+- Bishop, C. M. (2006) [pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) Springer.
+
+
+
+<!--
+
+This week we will cast our analytical eye on the traditional study
+designs you will meet in applied economics and policy analysis. We
+will focus on identifying the assumptions they require to do causal
+inference for us, and on extending them to more complicated policy
+scenarios than they were initially designed for.
+
+Everybody knows, and some even love 'fixed effects' and lagged
+variables as a tool for dealing with confounding that would otherwise
+compromise our causal inferences. But is is surprisingly difficult to
+see what we have to assume for them to work. When we do, they can seem
+rather less innocuous. We'll take a look.
+
+We will also investigate what happens to 'difference in difference'
+analyses when units, e.g. countries or states, receive their
+'treatment' at different times. This is a very common and important
+situation to study, but the standard tools need adjusting for it.
+
+## Readings
+
+- Goodman-Bacon 2018 'Difference-in-Differences with Variation in
+  Treatment Timing' NBER Report w25018.
+
+- Kim and Steiner 2019 'Causal Graphical Views of Fixed Effects and
+  Random Effects Models' MS
+
+- Bell and Jones 2014 'Explaining fixed effects: Random effects
+  modeling of time-series cross-sectional and panel data' Political
+  Science Research and Methods.
+
+- Imai and Kim 2019 'When Should We Use Unit Fixed Effects Regression
+  Models for Causal Inference with Longitudinal Data?' American
+  Journal of Political Science.
+
+- Bellemare et al (2017) Lagged Explanatory Variables and the Estimation of 
+  Causal Effects. Journal of Politics
+
+-->
+
+## Lecture
+
+[Link](https://moodle.hertie-school.org/course/index.php?categoryid=266)

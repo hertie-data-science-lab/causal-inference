@@ -1,0 +1,60 @@
+---
+title: "Machine Learning and Big Data Changes Everything"
+date: "September 8th, 2020"
+description: "Or maybe it doesn't. Let's see"
+---
+
+This week we see how our causal inferences could be helped or hindered
+by taking advantage of more powerful tools for regression from
+machine learning, and making use of increasingly massive data sets.
+
+More powerful models usually means more 'flexible' models so it will
+be important to see what the costs and benefits of non-linear
+regression are for causal inference. More flexible models allows us
+to go wrong more drastically, so questions of model fitting and
+overfitting will be important here.
+
+Bigger data will certainly make our inferences more precise, but it is
+an open question whether it can make us righter. Identifying a causal
+effect is the situation where, if we had all the data we could possibly
+want then some quantity estimated from a model would be the causal
+effect we are interested in. Conversely, if the effect is not identified
+then no amount more data will make it so. So we might be skeptical
+that more precision in our estimation due to more data will help. However,
+in policy domains we are often interested in a causal effect in some
+groups more than in others, so more data may help us identify these
+group effects better. Unless we overfit the model, in which case our
+precision is an illusion.
+
+
+## Readings
+
+- WhatIf: ch. 11 and 18
+
+- Meng, X.-L. (2018) [Statistical paradises and paradoxes in big data (I): Law of large 
+  populations, big data paradox, and the 2016 US presidential election](https://statistics.fas.harvard.edu/files/statistics-2/files/statistical_paradises_and_paradoxes.pdf) Annals of Applied Statistics.
+  
+- Wager and Athey (2017) [Estimation and Inference of Heterogeneous Treatment
+Effects using Random Forests](https://arxiv.org/pdf/1510.04342.pdf) Arxiv 1510.04342v4
+
+- Chetnozhukov, V. et al. (2018)[Double Machine Learning for Causal and Treatment Effects](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ectj.12097), 
+  see also (Felton on 
+  https://scholar.princeton.edu/sites/default/files/bstewart/files/felton.chern_.slides.20190318.pdf) for an accessible introduction.
+  
+- Hernan et al. (2019) [Data science is science's second chance to get causal inference right. A classification of data science tasks](https://arxiv.org/ftp/arxiv/papers/1804/1804.10846.pdf) ArXiv 1804.10846.
+
+Three excellent machine learning textbooks
+
+These two are freely downloadable
+
+- Bishop, C. M. (2006) [pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) Springer.
+
+- Hastie et al. (2009) [The Elements of Statistical Learning](http://www.web.stanford.edu/~hastie/ElemStatLearn/) 2nd Ed. Springer.
+
+And this one not
+
+- Murphy, K. P. (2012) [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/) MIT Press
+
+## Lecture
+
+[Link](https://moodle.hertie-school.org/course/index.php?categoryid=266) 

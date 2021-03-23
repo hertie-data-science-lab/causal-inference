@@ -1,0 +1,60 @@
+---
+title: "Causal Inference"
+description: |
+  Contemporary approaches to causal inference and its application to policy questions
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+------------------------------ ------------------------------- 
+**Instructor**:                [Dr. William E. M. Lowe](lowe@hertie-school.org)
+**Office**:                    Room 3.14
+**Office Hours**               By arrangement. [Email](lowe@hertie-school.org) the instructor directly.
+**Class Times**                Tuesdays 16:00-18:00
+**Classroom**                  2.30
+**Moodle**                     [Course page](https://moodle.hertie-school.org/course/view.php?id=2499)
+---------------------------------------------------------------
+
+### Sessions
+
+              Date        Title 
+------------- ----------- --------------------------------------------
+**1**         08.09.2020  [Foundations](week01.html)
+**2**         15.09.2020  [Experiments, Quasi-experiments, and Definitely not Experiments](week02.html)
+                          *Assignment 1 out*
+**3**         22.09.2020  [Stratification, Regression, and all that](week03.html)
+**4**         29.09.2020  [Machine Learning and Big Data Changes Everything](week04.html)
+                          *Assignment 2 out*
+**5**         06.10.2020  [Even More Machine Learning](week05.html)
+                          *Assignment 3 out*
+**6**         13.10.2020  [Half Time Review, plus some Diff-in-Diff](week06.html)
+                          *Assignment 4 out*
+                          &nbsp;
+**7**         27.10.2020  [Collider Bias in Theory and Practice](week07.html)
+**8**         03.11.2020  [Mediation, of the Statistical Variety](week08.html)
+**9**         10.11.2020  [Fairness and Bias in Algorithms and Humans](week09.html)
+**10**        17.11.2020  [Fairness and Bias: Case Study](week10.html)
+**11**        24.11.2020  [Special topics: Sensitivity and Bounds](week11.html)
+                          *Assignment 5 out*
+**12**        01.12.2020  [Special Topics: Alternative approaches to Causal Inference](week12.html)
+              14.12.2020  *Final Exam Week*
+-------------------------------------------------------------------
+
+### Links to textbooks (not required)
+
+
+-  Hernán Miguel A. and  Robins James M. (2020). [*Causal Inference: What If*](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/). Boca Raton: Chapman & Hall/CRC.
+
+- Pearl, Judea, Glymour, Madelyn, and Jewell, Nicholas 2016. *Causal Inference in Statistics: A Primer*. Wiley.
+
+- Angrist, Joshua D. and Pischke, Jörn-Steffen 2009 [*Mostly Harmless Econometrics*](http://widgets.ebscohost.com/prod/customlink/hanapi/hanapi.php?profile=4dfs1q6ik%2BHI6trd2JLhy6XO1eGS3NLlldzU0trT4ZLZ19elxNzcp6jHspXmyNipz6WP&DestinationURL=http%3a%2f%2fsearch.ebscohost.com%2flogin.aspx%3fdirect%3dtrue%26db%3dnlebk%26AN%3d329761%26site%3deds-live). Princeton University Press
+
+
+

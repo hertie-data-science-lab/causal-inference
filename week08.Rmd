@@ -1,0 +1,56 @@
+---
+title: "Mediation, of the Statistical Variety"
+date: "September 8th, 2020"
+description: "It's harder than you think to learn about causal mechanisms"
+---
+
+This week we ask the question: if there are several ways to generate a
+policy outcome, how important is each route? This is the mediation
+analysis, beloved of psychologists and communication scholars and,
+we shall see, rather more difficult than they hope.
+
+One of the most important questions we can ask when trying to unpack
+the idea of one 'route' to an outcome being more important than
+another, is: what precisely is the causal effect of interest? Perhaps
+unexpectedly, the answers to this question require some interesting -
+or dismaying depending on your preferences - metaphysical
+considerations. For example, is the effect of a job finding
+program on labour force outcome more mediated by the increasing confidence
+or improving skills?
+
+Assuming for a moment that these are independent, is the causal effect
+of the confidence 'route' the difference between your labour market
+outcome when you get treated, your confidence is raised, and your
+skills improved, and the counterfactual you whose skills are improved
+because you were treated, but whose confidence is not increased,
+exactly as if you were not treated? And if so, who is this person who
+is and is not affected by the treatment?
+
+Here we are only trying to define the causal effects; things get
+harder as we try to estimate it.
+
+
+
+## Readings
+
+- Keele (2015) 'Causal mediation analysis: Warning! Assumptions ahead'
+  American Journal of Evaluation. *or*
+
+- Green et al. (2010) 'Enough already about "black box" experiments:
+  Studying mediation is more difficult than most scholars suppose' The
+  Annals of the American Academy of Political and Social Science. *or*
+
+- Bullock et al. (2010) 'Yes, but what’s the mechanism? (Don’t expect an
+  easy answer)' Journal of Personality and Social Psychology. *or*
+
+- Imai et al. (2010) 'A general approach to causal mediation analysis'
+  Psychological Methods.
+  
+- Acharya et al. (2015) 'Explaining causal findings without bias: Detecting and 
+  assessing direct effects'
+  
+
+## Lecture
+
+[Link](https://moodle.hertie-school.org/course/index.php?categoryid=266)
+

@@ -1,0 +1,24 @@
+---
+title: "Special Topics: Alternative Approaches to Causal Inference"
+date: "September 8th, 2020"
+description: "There's more than one way to do it. Well, maybe."
+---
+
+This week we will consider some supposed alternatives to the
+counterfactual theory of causation we have been assuming, and see what
+the we would do differently under them.
+
+We will also consider 'process tracing' as a qualitative tool for
+investigating causal mechanisms, as a precursor to a general
+discussion of how we might use additional information in our causal inferences,
+whether qualitative or quantitative.
+
+## Readings
+
+- Beach [Process-Tracing Methods in Social Science](https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-176) (old school PT)
+
+- Bennett (2008) 'Process tracing: A Bayesian perspective.' The Oxford handbook of political methodology
+
+## Lecture
+
+[Link](https://moodle.hertie-school.org/course/index.php?categoryid=266)

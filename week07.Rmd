@@ -1,0 +1,36 @@
+---
+title: "Collider Bias in Theory and Practice"
+date: "September 8th, 2020"
+description: "Not everything is a confounder, so do not condition on all the things"
+---
+
+We spend this week thinking about 'collider bias' and its
+consequences.
+
+Collider bias provides a particularly illuminating framework for
+understanding why all the things you were told not to do in your last
+statistics class were bad. Examples, include selection on the dependent
+variable, conditioning on post-treatment outcomes, and generally pointing
+statistical models at data whose provenance you are unsure of.
+
+Collider bias is a particular issue for policy students as much of
+their data comes from organizations, who collected it for reasons
+unrelated but often unexpectedly relevant to the purpose you want it
+for. In particular, administrative data is usually created in response
+to some event, for example a birth, doctor's appointment, accident, or
+arrest. Colliders will be particulary troublesome when we try to
+answer some questions with this kind of non-randomly sampled data.
+
+## Readings
+
+- WhatIf ch. 8
+
+- Hernan et al. 2004 'A Structural Approach to Selection Bias' Epidemiology.
+
+- Elwert and Winship (2014) 'Endogenous selection bias: The problem of
+  conditioning on a collider variable' Annual Review of Sociology.
+
+
+## Lecture
+
+[Link](https://moodle.hertie-school.org/course/index.php?categoryid=266)

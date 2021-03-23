@@ -1,0 +1,16 @@
+---
+title: "Old School Tools from the Economists (2)"
+date: "September 8th, 2020"
+description: "Half Time Review, plus some Diff-in-Diff"
+---
+
+Taking stock of things now we're half way through.
+
+## Readings
+
+From the slides
+
+## Lecture
+
+
+[Link](https://moodle.hertie-school.org/course/index.php?categoryid=266)

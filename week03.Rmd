@@ -1,0 +1,47 @@
+---
+title: "Stratification, Regression, and all that"
+date: "September 8th, 2020"
+description: "When is a regression a good plan for causal inference? Not always, it turns out."
+---
+
+This week we cast our critical eye on our old friend, the regression
+model. It is helpful to think about regression models as a more
+sophisticated form of stratification, but they do more than that.  And
+also less. Knowing what they actually do from a causal inference
+perspective makes us a little more cautious, but also more realistic
+about what regression can offer us.
+
+In particular, we may want to use them indirectly, for example to
+generate weights such as propensity scores, or to combine different
+regression models in the same analysis, for example to study questions
+of mediation.
+
+For any regression model we'll also ask want to ask two big questions:
+First, since not everything that should be conditioned on is in this
+regression model, how *sensitive* are causal inferences to what is
+not observed. Second, should everything that is in the model be
+there. For example, conditioning on collider variables will wreck
+the most otherwise careful analysis and, as often, there will be no
+statistical warning that anything has gone wrong. We'll consider a general 
+typology of controls, good and bad, and the unwiseness of interpreting 
+the 'effects' of control variables.
+
+We'll also ask about the *representativeness* of regression estimators 
+of causal effects when they are heterogeneous and note that here, 
+perhaps surprisingly, some cases are more influential than others.
+
+## Readings
+
+- WhatIf: ch. 11, 12, 13, 15
+
+- Aronow and Samii (2016) Does regression produce representative estimates of 
+  causal effects? American Journal of Political Science.
+
+- Cinelli et al. (2020) [A crash course in good and bad controls](https://carloscinelli.com/files/Cinelli%20et%20al%20(2020)%20-%20A%20Crash%20Course%20in%20Good%20and%20Bad%20Controls.pdf)
+
+- Keele et al (2020) [The causal interpretation of estimated associations in regression models](https://pdfs.semanticscholar.org/dc9f/889b4931f54f7538d641d10176442b76277c.pdf) Political Science and Research Methods
+
+- King and Nielsen (2019), [Why Propensity Scores Should Not Be Used for Matching](https://doi.org/10.1017/pan.2019.11) Political Analysis
+
+## Lecture
+

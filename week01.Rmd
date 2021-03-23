@@ -1,0 +1,49 @@
+---
+title: "Foundations"
+date: "September 8th, 2020"
+description: "Mechanisms and Counterfactuals"
+---
+
+This week we review the counterfactual theory of causation and the
+kinds of causal inferences it licenses. We'll compare and contrast two
+complementary views of a causal mechanism: as a directed acyclic graph
+(DAG) that connects variables and implies statistical independence
+relations between them, and as independence relations that connect the
+potential outcome (PO) for each of these variables that individual
+cases can realize.
+
+It is often helpful to think of POs as the individual level
+implications of a DAG, where some implications are about what
+did not happen but could have done had things gone differently.
+
+In the background of each way of thinking about causation is the
+idea that there is a set of specific functions that
+realize the arrows in the DAG and are the reason that the POs
+have whatever structure they do. Since we seldom have strong ideas about
+what these functions look like, it is often useful to ask whether
+summaries of a functional relationship at particular values
+of the variables can be identified from data without knowing the
+functional forms in advance. This is the question of non-parametric
+causal identification, for which DAGs were designed. We can also
+ask about the minimal assumptions about functional form required,
+for example that some relationship is monotonically increasing.
+For this, switching to POs becomes necessary.
+
+
+## Readings (for weeks 1 *and* 2)
+
+- WhatIf ch. 1, 2, 3, 6, and 10
+
+- G. W. Imbens (2020) [Potential Outcome and Directed Acyclic
+  GraphApproaches to Causality: Relevance for Empirical Practice in
+  Economics](https://arxiv.org/pdf/1907.07271.pdf) Arxiv 1907.07271v2
+  (A graph skeptical overview of this week's topics from an economist)
+
+- Steiner et al. 2017 [Graphical models for quasi-experimental designs](https://dl.conjugateprior.org/ciml/reading/Steineretal2017.pdf) Sociological Methods and Research.
+
+## Lecture
+
+- [Moodle page](https://moodle.hertie-school.org/course/index.php?categoryid=266)
+
+
+ 

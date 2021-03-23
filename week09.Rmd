@@ -1,0 +1,40 @@
+---
+title: "Fairness and Bias in Algorithms and Humans"
+date: "September 8th, 2020"
+description: "If fairness is a counterfactual concept then lots of things can be biased"
+---
+
+This week we look at fairness and its evil twin bias. Our starting
+point will be, roughly, that fairness as an idea is essentially
+counterfactual. Specifically, I or my algorithm treat you fairly in an
+allocation decision with respect to one of your attributes, for
+example your gender, if I would have allocated you the same thing had
+your gender been different.
+
+While not the only way to think about fairness, this has some
+intuitive appeal. However, many other things about you would have been
+caused to be different had your gender been different, even assuming
+the counterfactual 'you with another gender' is conceivable. Things
+get interestingly difficult rather quickly and much legal and moral
+argument depends implicitly on answers to the ensuing difficulties,
+for example the concrete question about whether fairness requires that
+no allocation model depends on your gender. We will examine
+circumstances where this simple heuristic may fail as well as
+situations where competing definitions of fairness are in principle
+incompatible. We will try to use our causal inference tools to make
+some sense of the issue.
+
+## Readings
+
+- Kusner et al. (2017) 'Counterfactual Fairness' Advances in Neural
+  Information Processing Systems.
+
+- Russell et al. (2017) 'When worlds collide: Integrating different
+  counterfactual assumptions in fairness' Advances in Neural
+  Information Processing Systems.
+
+- Pleiss et al. (2017) 'On Fairness and Calibration'. Arxiv
+
+## Lecture
+
+[Link](https://moodle.hertie-school.org/course/index.php?categoryid=266)

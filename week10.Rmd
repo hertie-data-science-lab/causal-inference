@@ -1,0 +1,28 @@
+---
+title: "Fairness and Bias: Case Study"
+date: "September 8th, 2020"
+description: "A deep dive into an important policy question"
+---
+
+This week we take a in-depth look at the question of whether and if
+so, to what extent, US police are biased against monorities in their
+use of force. We will base the session around a recent paper on the
+topic in the light of its precursors and subsequent controversy.
+
+This issue will encompass many of the causal inference issues dealt
+with in the course, and provides an important policy-relevant example
+of multiple causal inference tools at work.
+
+## Readings
+
+- Knox et al. 2020 'Administrative Records Mask Racially Biased
+  Policing' American Journal of Political Science.
+  
+- Gaebler et al. [Deconstructing Claims of Post-Treatment Biasin Observational Studies of Discrimination](https://5harad.com/papers/post-treatment-bias.pdf)
+
+- Knox et al [Can Racial Bias in Policing Be Credibly EstimatedUsing Data Contaminated by Post-Treatment Selection?](https://dcknox.github.io/files/KnoxLoweMummolo_PostTreatmentSelectionPolicing.pdf) MS
+
+## Lecture
+
+[Link](https://moodle.hertie-school.org/course/index.php?categoryid=266)
+

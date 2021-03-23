@@ -1,0 +1,45 @@
+name: "."
+title: "Elective: Causal Inference"
+description: |
+  Elective: Causal Inference
+output_dir: "."
+author:
+  - name: "Dr. William Lowe"
+    url: https://conjugateprior.org
+    affiliation: Hertie School Data Science Lab
+    affiliation_url: https://hertie-data-science-lab.github.io
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Syllabus"
+      href: syllabus.html
+    - text: "Week"
+      menu:
+        - text: "1. Foundations"
+          href: week01.html
+        - text: "2. Experiments, Quasi-experiments, and Definitely not Experiments"
+          href: week02.html
+        - text: "3. Stratification, Regression, and all that"
+          href: week03.html
+        - text: "4. Machine Learning and Big Data Changes Everything"
+          href: week04.html
+        - text: "5. More Machine Learning"
+          href: week05.html
+        - text: "6. Old School Tools from the Economists (2)"
+          href: week06.html
+        - text: "7. Collider Bias in Theory and Practice"
+          href: week07.html
+        - text: "8. Mediation, of the Statistical Variety"
+          href: week08.html
+        - text: "9. Fairness and Bias in Algorithms and Humans"
+          href: week09.html
+        - text: "10. Fairness and Bias: A Case Study"
+          href: week10.html
+        - text: "11. Special Topics: Sensitivity and Bounds"
+          href: week11.html
+        - text: "12. Special Topics: Alternative Approaches to Causal Inference"
+          href: week12.html
+output:
+  distill::distill_article:
+    css: styles.css

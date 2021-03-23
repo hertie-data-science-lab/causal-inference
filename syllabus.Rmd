@@ -1,0 +1,115 @@
+---
+title: "Syllabus"
+description: |
+  Your single source of course information
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Logistics
+
+&nbsp;
+------------------------------ ------------------------------- 
+**Instructor**:                [Dr. William E. M. Lowe](lowe@hertie-school.org)
+**Assistant Email**:           <adjunctsupport@hertie-school.org>
+**Office**:                    Room 3.14
+**Office Hours**               By arrangement. Email the instructor directly.
+**Class Times**                Tuesdays 16:00-18:00
+**Classroom**                  2.30
+**Moodle**                     [Course page](https://moodle.hertie-school.org/course/view.php?id=2499)
+---------------------------------------------------------------
+
+### Format
+
+The course will consist of short pre-recorded lectures from the instructor and live discussion of these conducted either in person, remotely, or a mix of both. There are regular exercises to be submitted the week after they are set. Students will finish the course with an in depth analysis of existing substantively-focused 
+instructor-approved paper of their choice.
+
+## General Readings
+
+There are no required textbooks, but chapters from 
+
+-  Hernán Miguel A. and  Robins James M. (2020). [*Causal Inference: What If*](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/). Boca Raton: Chapman & Hall/CRC.
+
+will be noted in the weekly readings for reference. 
+
+Students who have taken Statistics 2 may have a copy of
+
+- Pearl, Judea, Glymour, Madelyn, and Jewell, Nicholas 2016. *Causal Inference in Statistics: A Primer*. Wiley.
+
+- Angrist, Joshua D. and Pischke, Jörn-Steffen 2009 [*Mostly Harmless Econometrics*](http://widgets.ebscohost.com/prod/customlink/hanapi/hanapi.php?profile=4dfs1q6ik%2BHI6trd2JLhy6XO1eGS3NLlldzU0trT4ZLZ19elxNzcp6jHspXmyNipz6WP&DestinationURL=http%3a%2f%2fsearch.ebscohost.com%2flogin.aspx%3fdirect%3dtrue%26db%3dnlebk%26AN%3d329761%26site%3deds-live). Princeton University Press
+
+which will cover a subset of the materials we do, but with a rather different focus.
+
+### Prerequisites
+
+Statistically, students should be familiar with fitting and interpreting linear models. This course will treat similar topics to Statistics 2, so having taken that course will be an advantage, but will focus more on conceptual issues and on literature outside political science and economics, e.g. machine learning.
+
+Practically, students should be competent, though need not be expert, with the sampling functions and simple data.frame manipulations in R.
+
+## Grading and Assignments
+
+The course grade is composed of five take home data analysis exercises, worth 10% each, a 
+final report worth 40%, and participation grade worth 10%
+
+### Exercises
+
+Data analysis exercises are guided practical exercises based around a data set or text collection, interspersed with conceptual questions about the tools being used, interpretation of results, etc. The exercises are designed to improve practical skills and test knowledge from lectures and reading. Grading is based on success in the practical components and the quality of written answers. Answers to conceptual questions are intended to require at most several paragraphs of text. Note that different exercises have a different mixes of practical and explanatory / analytical requirements.
+
+### Final Report
+
+For the final report, students choose a substantively oriented paper on a policy topic of their choice, subject to instructor approval, and provide both a critique of its methods from a causal perspective, and motivate a set of proposals to remedy any identified defects (if that is possible), e.g. by providing alternative or additional research design or other analytical strategies to address the original research question. Note that there is no requirement that suggestions must use exactly the same data but suggestions for alternative data sources must be reasonable.
+ 
+### Participation 
+ 
+The participation grade is based on the assumption that students take part, not as passive consumers of knowledge, but as active participants in the exchange, production, and critique of ideas—their own ideas and the ideas of others. Therefore, students should come to class not only having read and viewed the materials assigned for that day but also prepared to discuss the readings of the day and to contribute thoughtfully to the conversation. Some course materials can be difficult, not least because we will often be reading recently written articles close to the state of the art, without the benefit of year of expository practice. Consequently, it is important to identify and be honest about what you have understood and what remains unclear as you participate in the class. In particular, the instructor does not expect, although would be delighted by, a complete technical understanding of every paper before class.
+
+Participation is graded *subtractively*; students receive the full grade except to the extent they fail to take adequate part in the class.  Participation is marked by its active nature, its consistency, and its quality, but note that it is both unnecessary and also unwise, to monopolize conversation in order to maximize participation grade. Participation that makes it harder for other class members to engage in discussion will lead to a lower grade, regardless of the quality of interventions.
+
+### Late submission of assignments
+
+For each day the assignment is turned in late, the grade will be reduced by 10% (e.g. submission two days after the deadline would result in 20% grade deduction).
+
+### Attendance
+
+Students are expected to be present and prepared for every class session. Active participation during lectures and seminar discussions is important. If unavoidable circumstances arise which prevent attendance or preparation, the instructor should be advised by email with as much advance notice as possible. Please note that students cannot miss more than two out of 12 course sessions. For further information please consult the Examination Rules §10.
+
+### Academic Integrity
+
+The Hertie School is committed to the standards of good academic and ethical conduct. Any violation of these standards shall be subject to disciplinary action. Plagiarism, deceitful actions as well as free-riding in group work are not tolerated. See Examination Rules §16.
+
+### Compensation for Disadvantages
+
+If a student furnishes evidence that he or she is not able to take an examination as required in whole or in part due to disability or permanent illness, the Examination Committee may upon written request approve learning accommodation(s). In this respect, the submission of adequate certificates may be required. See Examination Rules §14.
+
+### Extenuating circumstances 
+
+An extension can be granted due to extenuating circumstances (i.e., for reasons like illness, personal loss or hardship, or caring duties). In such cases, please contact the course instructors and the Examination Office in advance of the deadline.
+
+## Session Overview 
+
+Session  Date        Title 
+-------- ----------- --------------------------------------------
+**1**    08.09.2020  [Foundations](week01.html)
+**2**    15.09.2020  [Experiments, Quasi-experiments, and Definitely not Experiments](week02.html)
+                     *Assignment 1 out*
+**3**    22.09.2020  [Stratification, Regression, and all that](week03.html)
+**4**    29.09.2020  [Machine Learning and Big Data Changes Everything](week04.html)
+                     *Assignment 2 out*
+**5**    06.10.2020  [Even More Machine Learning](week05.html)
+                     *Assignment 3 out*
+**6**    13.10.2020  [Half Time Review, plus some Diff-in-Diff](week06.html)
+                     *Assignment 4 out*
+                     &nbsp;
+**7**    27.10.2020  [Collider Bias in Theory and Practice](week07.html)
+**8**    03.11.2020  [Mediation, of the Statistical Variety](week08.html)
+**9**    10.11.2020  [Fairness and Bias in Algorithms and Humans](week09.html)
+**10**   17.11.2020  [Fairness and Bias: Case Study](week10.html)
+**11**   24.11.2020  [Special topics: Sensitivity and Bounds](week11.html)
+                     *Assignment 5 out*
+**12**   01.12.2020  [Special Topics: Alternative approaches to Causal Inference](week12.html)
+         14.12.2020  *Final Exam Week*
+-------------------------------------------------------------------
+
+
